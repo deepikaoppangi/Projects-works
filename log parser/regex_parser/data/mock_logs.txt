@@ -1,0 +1,20 @@
+[2024-12-05 08:23:14] [replica-node1] Thread-349: Waiting for lock... [timeout: 5000ms]
+[2024-12-05 08:23:18] [master-node] Deadlock detected between Thread-182 and Thread-349
+[2024-12-05 08:23:19] [replica-node2] Queue execution time: 18234ms
+[2024-12-05 08:23:21] [haproxy] Connection retries exceeded: 3 attempts in 2s
+[2024-12-06 03:45:32] [replica-node1] Indexing job failed with exit code 137
+[2024-12-06 03:45:36] [haproxy] Backend server timeout on gerrit-api:8080
+[2024-12-06 03:45:40] [master-node] Replication plugin stalled for 600s
+[2024-12-06 03:45:50] [replica-node3] Memory usage > 95%
+[2024-12-06 03:46:10] [master-node] Git receive-pack deadlock with Thread-291
+[2024-12-06 03:46:35] [haproxy] Too many open files in proxy process
+[2024-12-06 07:11:09] [replica-node2] CPU load average exceeded threshold: 16.23
+[2024-12-06 07:11:15] [master-node] Git upload-pack failed - timeout
+[2024-12-06 07:12:01] [replica-node1] Journal flush error: disk I/O stalled
+[2024-12-06 08:00:11] [haproxy] SSL handshake failed with client 10.21.34.120
+[2024-12-06 08:02:01] [master-node] Lock acquisition exceeded threshold (12000ms)
+[2024-12-06 08:02:15] [replica-node3] Gerrit not reachable - HTTP 503
+[2024-12-06 08:03:20] [replica-node2] Git d on backend db-router
+[2024-12-06 08:05:50] [replica-node1] File descriptor exhaustion warning
+[2024-12-06 08:06:22] [master-node] Detected stalled reindexingpush queue stuck for 24m
+[2024-12-06 08:04:30] [haproxy] Max retries exceede threads > 5
