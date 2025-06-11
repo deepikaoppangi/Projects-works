@@ -1,0 +1,222 @@
+[
+    {
+        "ticket_id": "TCKT-001",
+        "issue_type": "Timeout",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "timeout",
+            "lock"
+        ],
+        "timestamp": "2024-12-05 08:23:14"
+    },
+    {
+        "ticket_id": "TCKT-002",
+        "issue_type": "Deadlock",
+        "node_type": "master",
+        "tags": [
+            "master",
+            "deadlock",
+            "lock"
+        ],
+        "timestamp": "2024-12-05 08:23:18"
+    },
+    {
+        "ticket_id": "TCKT-003",
+        "issue_type": "Queue Spike",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "queue spike",
+            "latency"
+        ],
+        "timestamp": "2024-12-05 08:23:19"
+    },
+    {
+        "ticket_id": "TCKT-004",
+        "issue_type": "Connection Error",
+        "node_type": "haproxy",
+        "tags": [
+            "haproxy",
+            "connection error",
+            "connection"
+        ],
+        "timestamp": "2024-12-05 08:23:21"
+    },
+    {
+        "ticket_id": "TCKT-005",
+        "issue_type": "Job Failure",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "job failure",
+            "indexing"
+        ],
+        "timestamp": "2024-12-06 03:45:32"
+    },
+    {
+        "ticket_id": "TCKT-006",
+        "issue_type": "Timeout",
+        "node_type": "haproxy",
+        "tags": [
+            "haproxy",
+            "timeout",
+            "gerrit"
+        ],
+        "timestamp": "2024-12-06 03:45:36"
+    },
+    {
+        "ticket_id": "TCKT-007",
+        "issue_type": "Replication Stall",
+        "node_type": "master",
+        "tags": [
+            "master",
+            "replication stall",
+            "replication"
+        ],
+        "timestamp": "2024-12-06 03:45:40"
+    },
+    {
+        "ticket_id": "TCKT-008",
+        "issue_type": "Memory Overload",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "memory overload"
+        ],
+        "timestamp": "2024-12-06 03:45:50"
+    },
+    {
+        "ticket_id": "TCKT-009",
+        "issue_type": "Deadlock",
+        "node_type": "master",
+        "tags": [
+            "master",
+            "deadlock",
+            "lock",
+            "git"
+        ],
+        "timestamp": "2024-12-06 03:46:10"
+    },
+    {
+        "ticket_id": "TCKT-010",
+        "issue_type": "Resource Exhaustion",
+        "node_type": "haproxy",
+        "tags": [
+            "haproxy",
+            "resource exhaustion"
+        ],
+        "timestamp": "2024-12-06 03:46:35"
+    },
+    {
+        "ticket_id": "TCKT-011",
+        "issue_type": "CPU Overload",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "cpu overload"
+        ],
+        "timestamp": "2024-12-06 07:11:09"
+    },
+    {
+        "ticket_id": "TCKT-012",
+        "issue_type": "Timeout",
+        "node_type": "master",
+        "tags": [
+            "master",
+            "timeout",
+            "git"
+        ],
+        "timestamp": "2024-12-06 07:11:15"
+    },
+    {
+        "ticket_id": "TCKT-013",
+        "issue_type": "Disk I/O Error",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "disk i/o error",
+            "disk"
+        ],
+        "timestamp": "2024-12-06 07:12:01"
+    },
+    {
+        "ticket_id": "TCKT-014",
+        "issue_type": "SSL Error",
+        "node_type": "haproxy",
+        "tags": [
+            "haproxy",
+            "ssl error",
+            "ssl"
+        ],
+        "timestamp": "2024-12-06 08:00:11"
+    },
+    {
+        "ticket_id": "TCKT-015",
+        "issue_type": "Lock Timeout",
+        "node_type": "master",
+        "tags": [
+            "master",
+            "lock timeout",
+            "lock"
+        ],
+        "timestamp": "2024-12-06 08:02:01"
+    },
+    {
+        "ticket_id": "TCKT-016",
+        "issue_type": "Service Unavailable",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "service unavailable",
+            "gerrit",
+            "http"
+        ],
+        "timestamp": "2024-12-06 08:02:15"
+    },
+    {
+        "ticket_id": "TCKT-017",
+        "issue_type": "Git Error",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "git error",
+            "git"
+        ],
+        "timestamp": "2024-12-06 08:03:20"
+    },
+    {
+        "ticket_id": "TCKT-018",
+        "issue_type": "Resource Exhaustion",
+        "node_type": "replica",
+        "tags": [
+            "replica",
+            "resource exhaustion",
+            "resource"
+        ],
+        "timestamp": "2024-12-06 08:05:50"
+    },
+    {
+        "ticket_id": "TCKT-019",
+        "issue_type": "Unknown",
+        "node_type": "master",
+        "tags": [
+            "master",
+            "unknown",
+            "latency",
+            "indexing"
+        ],
+        "timestamp": "2024-12-06 08:06:22"
+    },
+    {
+        "ticket_id": "TCKT-020",
+        "issue_type": "Connection Error",
+        "node_type": "haproxy",
+        "tags": [
+            "haproxy",
+            "connection error",
+            "connection"
+        ],
+        "timestamp": "2024-12-06 08:04:30"
+    }
+]
